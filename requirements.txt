@@ -1,2 +1,2 @@
-flask mysql-connector-python,
+flask mysql-connector-python
 use esse comando no terminal do vscode para baixar as dependendicas
