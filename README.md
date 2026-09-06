@@ -2,7 +2,7 @@
 
 1) instalar Python, 
 2) rodar `pip install Flask` e `pip install mysql-connector-python`  no terminal vscode
-3) importar o arquivo `.sql` no MySQL Workbench deles (abrir o arquivo e rodar tudo), 
+3) importar o arquivo `.sql` no MySQL Workbench, ir em administration, depois data import/restore, depois import from selft-contained file escolher o arquivo .sql e start import.
 4) editar a senha do MySQL dentro do `app.py`, 
 5) rodar `python app.py`,
-6) lembrar de mudar a senha no codigo e colocar a msm senha do banco de dados
+6) clicar no running on no terminal
