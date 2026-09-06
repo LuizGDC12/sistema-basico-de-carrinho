@@ -1,7 +1,7 @@
 # banco de dados basico de salvar itens em carrinho de compras
 
 1) instalar Python, 
-2) rodar `pip install -r requirements.txt`, 
+2) rodar `pip install Flask`, 
 3) importar o arquivo `.sql` no MySQL Workbench deles (abrir o arquivo e rodar tudo), 
 4) editar a senha do MySQL dentro do `app.py`, 
 5) rodar `python app.py`,
